@@ -25,6 +25,7 @@ $ petermbenjamin
 Usage: petermbenjamin <options>
 Options:
   -c    Print Contact Info
+  -e    Print Email Address
   -n    Print Name
 ```
 
